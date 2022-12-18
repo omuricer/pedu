@@ -1,0 +1,9 @@
+[package]
+name = "pedu"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+in_mysql = { path = "../infra/in_mysql" }
