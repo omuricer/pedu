@@ -1,1 +1,1 @@
-pub mod exam;
+pub mod exam_usecase;

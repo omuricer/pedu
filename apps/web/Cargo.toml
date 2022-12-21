@@ -7,4 +7,6 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4"
+dotenv = "0.15.0"
 pedu = { path = "../../core" }
+in_mysql = { path = "../../infra/in_mysql" }
